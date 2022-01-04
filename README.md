@@ -29,7 +29,7 @@ You can open the index.html file in a web browser or with the extention "liver s
 
 ## Future Updates
 
-- [ ] I am going to add code to create a wall where the pacmen bounce off of. 
+- [ ] I am planning to add code that allows eyes to change color randomly every ten seconds. 
 ## Author
 
 **Nader Hassan**
